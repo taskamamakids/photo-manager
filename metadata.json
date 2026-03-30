@@ -1,0 +1,5 @@
+{
+  "name": "Taska Mama Kids Photo Organizer",
+  "description": "A web-based tool to sort thousands of photos into individual child folders using facial recognition for year-end photobooks.",
+  "requestFramePermissions": []
+}
